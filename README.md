@@ -1,8 +1,7 @@
 # MatoshriBuddy
 
 MatoshriBuddy is a comprehensive platform for discovering, creating, and participating in college events. Connect, engage, and make the most of your college experience.
-
-![MatoshriBuddy Screenshot](https://i.imgur.com/VHvQOkM.jpg)
+)
 
 ## Features
 
@@ -105,8 +104,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Unsplash](https://unsplash.com/) for the beautiful images
 - All the open-source libraries that made this project possible
 
-## Contact
-
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/yourusername/MatoshriBuddy](https://github.com/yourusername/MatoshriBuddy)
