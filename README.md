@@ -102,5 +102,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - [Material UI](https://mui.com/) for the wonderful UI components
 - [Unsplash](https://unsplash.com/) for the beautiful images
-- All the open-source libraries that made this project possible
+
 
