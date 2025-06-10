@@ -10,7 +10,7 @@ MatoshriBuddy is a comprehensive platform for discovering, creating, and partici
 - **User Authentication**: Secure login and registration system
 - **Event Registration**: Register for events with a single click
 - **User Dashboard**: Manage your created and registered events
-- **Modern UI**: Responsive and interactive user interface
+
 
 ## Tech Stack
 
